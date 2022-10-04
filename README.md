@@ -10,6 +10,8 @@
 - push to feature-1 branch on github repo
 - create merge request
 
+***
+
 # USEFUL COMMANDS
 
 - git checkout
